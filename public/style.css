@@ -4,18 +4,16 @@
     box-sizing: border-box;
     text-decoration: none;
     background: transparent;
-    font-family: 'poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
-/* Set the body background color to black */
 body {
-    background-color: #000; /* Hex color code for black */
-    color: white; /* Set the text color to white for better contrast */
+    background-color: black; 
+    color: white; 
     overflow: hidden;
     overflow-y: scroll;
 }
 
-/* Example of additional styles for content */
 h1 {
     margin: 20px;
     font-family: Arial, sans-serif;
